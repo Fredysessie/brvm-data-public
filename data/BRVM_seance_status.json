@@ -29,12 +29,12 @@
     {
       "ticker": "BOABF",
       "price": "3 595",
-      "variation": "-1,25%"
+      "variation": "0,00%"
     },
     {
       "ticker": "BOAC",
       "price": "7 250",
-      "variation": "0,69%"
+      "variation": "0,55%"
     },
     {
       "ticker": "BOAM",
@@ -44,7 +44,7 @@
     {
       "ticker": "BOAN",
       "price": "2 530",
-      "variation": "-0,99%"
+      "variation": "0,00%"
     },
     {
       "ticker": "BOAS",
@@ -59,7 +59,7 @@
     {
       "ticker": "CBIBF",
       "price": "10 200",
-      "variation": "0,93%"
+      "variation": "0,98%"
     },
     {
       "ticker": "CFAC",
@@ -104,12 +104,12 @@
     {
       "ticker": "NTLC",
       "price": "12 550",
-      "variation": "-0,40%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ONTBF",
       "price": "2 440",
-      "variation": "-1,61%"
+      "variation": "0,20%"
     },
     {
       "ticker": "ORAC",
@@ -169,7 +169,7 @@
     {
       "ticker": "SIBC",
       "price": "5 700",
-      "variation": "-0,88%"
+      "variation": "-1,32%"
     },
     {
       "ticker": "SICC",
