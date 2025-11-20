@@ -4,7 +4,7 @@
     {
       "ticker": "ABJC",
       "price": "2 400",
-      "variation": "-0,42%"
+      "variation": "0,00%"
     },
     {
       "ticker": "BICB",
@@ -28,13 +28,13 @@
     },
     {
       "ticker": "BOABF",
-      "price": "3 680",
-      "variation": "0,68%"
+      "price": "3 780",
+      "variation": "2,72%"
     },
     {
       "ticker": "BOAC",
       "price": "7 250",
-      "variation": "0,62%"
+      "variation": "0,00%"
     },
     {
       "ticker": "BOAM",
@@ -64,7 +64,7 @@
     {
       "ticker": "CFAC",
       "price": "1 515",
-      "variation": "0,33%"
+      "variation": "1,32%"
     },
     {
       "ticker": "CIEC",
@@ -74,22 +74,22 @@
     {
       "ticker": "ECOC",
       "price": "15 900",
-      "variation": "-0,63%"
+      "variation": "-1,89%"
     },
     {
       "ticker": "ETIT",
       "price": "24",
-      "variation": "-4,17%"
+      "variation": "0,00%"
     },
     {
       "ticker": "FTSC",
       "price": "2 300",
-      "variation": "2,00%"
+      "variation": "1,78%"
     },
     {
       "ticker": "LNBB",
       "price": "3 800",
-      "variation": "0,00%"
+      "variation": "1,45%"
     },
     {
       "ticker": "NEIC",
@@ -134,12 +134,12 @@
     {
       "ticker": "SAFC",
       "price": "3 080",
-      "variation": "5,65%"
+      "variation": "6,16%"
     },
     {
       "ticker": "SCRC",
       "price": "1 000",
-      "variation": "-0,50%"
+      "variation": "-1,00%"
     },
     {
       "ticker": "SDCC",
@@ -159,7 +159,7 @@
     {
       "ticker": "SGBC",
       "price": "26 900",
-      "variation": "0,00%"
+      "variation": "3,02%"
     },
     {
       "ticker": "SHEC",
@@ -199,12 +199,12 @@
     {
       "ticker": "SOGC",
       "price": "7 850",
-      "variation": "1,46%"
+      "variation": "1,53%"
     },
     {
       "ticker": "SPHC",
       "price": "7 395",
-      "variation": "-0,74%"
+      "variation": "-0,68%"
     },
     {
       "ticker": "STAC",
@@ -233,7 +233,7 @@
     },
     {
       "ticker": "UNXC",
-      "price": "1 435",
+      "price": "1 400",
       "variation": "1,08%"
     }
   ]
