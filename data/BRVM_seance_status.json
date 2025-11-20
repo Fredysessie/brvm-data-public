@@ -24,7 +24,7 @@
     {
       "ticker": "BOAB",
       "price": "5 030",
-      "variation": "1,39%"
+      "variation": "0,10%"
     },
     {
       "ticker": "BOABF",
@@ -58,8 +58,8 @@
     },
     {
       "ticker": "CBIBF",
-      "price": "10 305",
-      "variation": "-7,16%"
+      "price": "10 800",
+      "variation": "-2,70%"
     },
     {
       "ticker": "CFAC",
@@ -78,8 +78,8 @@
     },
     {
       "ticker": "ETIT",
-      "price": "24",
-      "variation": "0,00%"
+      "price": "23",
+      "variation": "-4,17%"
     },
     {
       "ticker": "FTSC",
@@ -113,8 +113,8 @@
     },
     {
       "ticker": "ORAC",
-      "price": "13 900",
-      "variation": "-4,14%"
+      "price": "14 500",
+      "variation": "0,00%"
     },
     {
       "ticker": "ORGT",
@@ -184,7 +184,7 @@
     {
       "ticker": "SLBC",
       "price": "28 500",
-      "variation": "0,00%"
+      "variation": "-1,25%"
     },
     {
       "ticker": "SMBC",
@@ -204,7 +204,7 @@
     {
       "ticker": "SPHC",
       "price": "7 395",
-      "variation": "1,01%"
+      "variation": "1,15%"
     },
     {
       "ticker": "STAC",
