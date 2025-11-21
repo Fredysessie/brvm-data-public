@@ -64,7 +64,7 @@
     {
       "ticker": "CFAC",
       "price": "1 475",
-      "variation": "-1,65%"
+      "variation": "-2,31%"
     },
     {
       "ticker": "CIEC",
@@ -84,7 +84,7 @@
     {
       "ticker": "FTSC",
       "price": "2 295",
-      "variation": "-0,44%"
+      "variation": "-0,22%"
     },
     {
       "ticker": "LNBB",
@@ -124,7 +124,7 @@
     {
       "ticker": "PALC",
       "price": "8 005",
-      "variation": "1,06%"
+      "variation": "1,12%"
     },
     {
       "ticker": "PRSC",
@@ -139,7 +139,7 @@
     {
       "ticker": "SCRC",
       "price": "1 000",
-      "variation": "-1,00%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SDCC",
@@ -169,7 +169,7 @@
     {
       "ticker": "SIBC",
       "price": "5 700",
-      "variation": "0,00%"
+      "variation": "1,40%"
     },
     {
       "ticker": "SICC",
@@ -219,7 +219,7 @@
     {
       "ticker": "TTLC",
       "price": "2 365",
-      "variation": "-1,69%"
+      "variation": "-0,21%"
     },
     {
       "ticker": "TTLS",
@@ -228,8 +228,8 @@
     },
     {
       "ticker": "UNLC",
-      "price": "36 000",
-      "variation": "-6,01%"
+      "price": "38 000",
+      "variation": "-0,78%"
     },
     {
       "ticker": "UNXC",
