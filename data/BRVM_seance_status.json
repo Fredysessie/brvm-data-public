@@ -8,8 +8,8 @@
     },
     {
       "ticker": "BICB",
-      "price": "4 950",
-      "variation": "0,91%"
+      "price": "5 100",
+      "variation": "3,03%"
     },
     {
       "ticker": "BICC",
@@ -29,7 +29,7 @@
     {
       "ticker": "BOABF",
       "price": "3 780",
-      "variation": "0,00%"
+      "variation": "0,13%"
     },
     {
       "ticker": "BOAC",
@@ -39,12 +39,12 @@
     {
       "ticker": "BOAM",
       "price": "3 800",
-      "variation": "0,00%"
+      "variation": "-0,53%"
     },
     {
       "ticker": "BOAN",
       "price": "2 525",
-      "variation": "-0,99%"
+      "variation": "0,00%"
     },
     {
       "ticker": "BOAS",
@@ -113,13 +113,13 @@
     },
     {
       "ticker": "ORAC",
-      "price": "14 700",
-      "variation": "0,00%"
+      "price": "15 000",
+      "variation": "2,04%"
     },
     {
       "ticker": "ORGT",
-      "price": "2 500",
-      "variation": "0,20%"
+      "price": "2 555",
+      "variation": "2,40%"
     },
     {
       "ticker": "PALC",
@@ -134,7 +134,7 @@
     {
       "ticker": "SAFC",
       "price": "3 200",
-      "variation": "2,07%"
+      "variation": "1,91%"
     },
     {
       "ticker": "SCRC",
@@ -149,7 +149,7 @@
     {
       "ticker": "SDSC",
       "price": "1 460",
-      "variation": "-2,33%"
+      "variation": "-1,67%"
     },
     {
       "ticker": "SEMC",
@@ -159,7 +159,7 @@
     {
       "ticker": "SGBC",
       "price": "27 100",
-      "variation": "2,26%"
+      "variation": "2,25%"
     },
     {
       "ticker": "SHEC",
@@ -174,7 +174,7 @@
     {
       "ticker": "SICC",
       "price": "3 575",
-      "variation": "0,00%"
+      "variation": "1,82%"
     },
     {
       "ticker": "SIVC",
@@ -214,7 +214,7 @@
     {
       "ticker": "STBC",
       "price": "19 500",
-      "variation": "1,03%"
+      "variation": "-0,26%"
     },
     {
       "ticker": "TTLC",
@@ -224,7 +224,7 @@
     {
       "ticker": "TTLS",
       "price": "2 500",
-      "variation": "-1,00%"
+      "variation": "-0,40%"
     },
     {
       "ticker": "UNLC",
