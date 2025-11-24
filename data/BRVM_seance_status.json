@@ -8,7 +8,7 @@
     },
     {
       "ticker": "BICB",
-      "price": "5 100",
+      "price": "4 965",
       "variation": "-3,85%"
     },
     {
@@ -39,7 +39,7 @@
     {
       "ticker": "BOAM",
       "price": "3 800",
-      "variation": "0,00%"
+      "variation": "-0,26%"
     },
     {
       "ticker": "BOAN",
@@ -48,8 +48,8 @@
     },
     {
       "ticker": "BOAS",
-      "price": "5 500",
-      "variation": "0,00%"
+      "price": "5 300",
+      "variation": "-3,64%"
     },
     {
       "ticker": "CABC",
@@ -73,23 +73,23 @@
     },
     {
       "ticker": "ECOC",
-      "price": "15 300",
-      "variation": "0,00%"
+      "price": "15 700",
+      "variation": "2,61%"
     },
     {
       "ticker": "ETIT",
-      "price": "23",
-      "variation": "-4,17%"
+      "price": "24",
+      "variation": "0,00%"
     },
     {
       "ticker": "FTSC",
       "price": "2 290",
-      "variation": "-1,75%"
+      "variation": "0,00%"
     },
     {
       "ticker": "LNBB",
-      "price": "3 800",
-      "variation": "-1,03%"
+      "price": "3 890",
+      "variation": "0,00%"
     },
     {
       "ticker": "NEIC",
@@ -124,7 +124,7 @@
     {
       "ticker": "PALC",
       "price": "8 095",
-      "variation": "0,00%"
+      "variation": "0,06%"
     },
     {
       "ticker": "PRSC",
@@ -158,18 +158,18 @@
     },
     {
       "ticker": "SGBC",
-      "price": "26 205",
-      "variation": "-1,13%"
+      "price": "27 650",
+      "variation": "4,34%"
     },
     {
       "ticker": "SHEC",
       "price": "1 575",
-      "variation": "2,65%"
+      "variation": "3,64%"
     },
     {
       "ticker": "SIBC",
       "price": "5 650",
-      "variation": "-0,52%"
+      "variation": "-0,69%"
     },
     {
       "ticker": "SICC",
@@ -199,12 +199,12 @@
     {
       "ticker": "SOGC",
       "price": "7 990",
-      "variation": "-1,13%"
+      "variation": "-0,50%"
     },
     {
       "ticker": "SPHC",
       "price": "7 695",
-      "variation": "4,15%"
+      "variation": "4,70%"
     },
     {
       "ticker": "STAC",
