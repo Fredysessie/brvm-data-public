@@ -74,17 +74,17 @@
     {
       "ticker": "ECOC",
       "price": "15 300",
-      "variation": "-0,33%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ETIT",
-      "price": "23",
-      "variation": "-4,17%"
+      "price": "24",
+      "variation": "0,00%"
     },
     {
       "ticker": "FTSC",
       "price": "2 200",
-      "variation": "-3,93%"
+      "variation": "-0,87%"
     },
     {
       "ticker": "LNBB",
@@ -99,12 +99,12 @@
     {
       "ticker": "NSBC",
       "price": "11 990",
-      "variation": "-0,29%"
+      "variation": "0,00%"
     },
     {
       "ticker": "NTLC",
       "price": "11 850",
-      "variation": "-0,04%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ONTBF",
@@ -118,8 +118,8 @@
     },
     {
       "ticker": "ORGT",
-      "price": "2 640",
-      "variation": "5,60%"
+      "price": "2 530",
+      "variation": "1,20%"
     },
     {
       "ticker": "PALC",
@@ -129,7 +129,7 @@
     {
       "ticker": "PRSC",
       "price": "3 970",
-      "variation": "-0,25%"
+      "variation": "-1,76%"
     },
     {
       "ticker": "SAFC",
@@ -144,7 +144,7 @@
     {
       "ticker": "SDCC",
       "price": "6 105",
-      "variation": "-0,08%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SDSC",
@@ -164,12 +164,12 @@
     {
       "ticker": "SHEC",
       "price": "1 575",
-      "variation": "4,30%"
+      "variation": "3,97%"
     },
     {
       "ticker": "SIBC",
       "price": "5 780",
-      "variation": "0,00%"
+      "variation": "-0,52%"
     },
     {
       "ticker": "SICC",
@@ -179,7 +179,7 @@
     {
       "ticker": "SIVC",
       "price": "690",
-      "variation": "-1,45%"
+      "variation": "1,45%"
     },
     {
       "ticker": "SLBC",
@@ -194,7 +194,7 @@
     {
       "ticker": "SNTS",
       "price": "25 100",
-      "variation": "1,20%"
+      "variation": "0,06%"
     },
     {
       "ticker": "SOGC",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 395",
-      "variation": "-5,44%"
+      "variation": "-5,10%"
     }
   ]
 }
