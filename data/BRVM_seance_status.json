@@ -13,8 +13,8 @@
     },
     {
       "ticker": "BICC",
-      "price": "19 805",
-      "variation": "-2,68%"
+      "price": "20 345",
+      "variation": "-0,02%"
     },
     {
       "ticker": "BNBC",
@@ -24,7 +24,7 @@
     {
       "ticker": "BOAB",
       "price": "5 090",
-      "variation": "1,08%"
+      "variation": "1,18%"
     },
     {
       "ticker": "BOABF",
@@ -39,7 +39,7 @@
     {
       "ticker": "BOAM",
       "price": "4 000",
-      "variation": "5,54%"
+      "variation": "5,28%"
     },
     {
       "ticker": "BOAN",
@@ -49,7 +49,7 @@
     {
       "ticker": "BOAS",
       "price": "5 320",
-      "variation": "0,28%"
+      "variation": "1,51%"
     },
     {
       "ticker": "CABC",
@@ -103,8 +103,8 @@
     },
     {
       "ticker": "NTLC",
-      "price": "11 530",
-      "variation": "0,00%"
+      "price": "11 800",
+      "variation": "2,34%"
     },
     {
       "ticker": "ONTBF",
@@ -118,13 +118,13 @@
     },
     {
       "ticker": "ORGT",
-      "price": "2 580",
-      "variation": "0,00%"
+      "price": "2 515",
+      "variation": "-2,52%"
     },
     {
       "ticker": "PALC",
       "price": "8 100",
-      "variation": "0,00%"
+      "variation": "-0,19%"
     },
     {
       "ticker": "PRSC",
@@ -149,7 +149,7 @@
     {
       "ticker": "SDSC",
       "price": "1 485",
-      "variation": "-0,67%"
+      "variation": "-1,34%"
     },
     {
       "ticker": "SEMC",
@@ -158,8 +158,8 @@
     },
     {
       "ticker": "SGBC",
-      "price": "27 595",
-      "variation": "-0,20%"
+      "price": "27 000",
+      "variation": "-4,16%"
     },
     {
       "ticker": "SHEC",
@@ -169,7 +169,7 @@
     {
       "ticker": "SIBC",
       "price": "5 745",
-      "variation": "3,33%"
+      "variation": "3,42%"
     },
     {
       "ticker": "SICC",
@@ -194,12 +194,12 @@
     {
       "ticker": "SNTS",
       "price": "25 150",
-      "variation": "0,60%"
+      "variation": "0,99%"
     },
     {
       "ticker": "SOGC",
       "price": "7 950",
-      "variation": "0,38%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SPHC",
