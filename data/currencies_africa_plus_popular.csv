@@ -1,65 +1,65 @@
-Currency,ISO 4217 currency code,Currency sign,Country,Continent
-Algerian dinar,DZD,DA (Latin) دج (Arabic),Algeria,Africa
-Angolan kwanza,AOA,Kz,Angola,Africa
-Botswana pula,BWP,P,Botswana,Africa
-Burundian franc,BIF,FBu,Burundi,Africa
-Cape Verdean escudo,CVE,FBu,Cabo Verde,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XAF,FCFA,Cameroon,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XAF,FCFA,Central African Republic,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XAF,FCFA,Chad,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XAF,FCFA,Republic of the Congo,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XAF,FCFA,Equatorial Guinea,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XAF,FCFA,Gabon,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Benin,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Burkina Faso,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Guinea-Bissau,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Côte d'Ivoire,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Mali,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Niger,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Senegal,Africa
-CFA franc There are two different currencies called the CFA franc: the West African CFA franc (XOF) and the Central African CFA franc (XAF).,XOF,CFA,Togo,Africa
-Comorian franc,KMF,FC,Comoros,Africa
-Congolese franc,CDF,FC,Democratic Republic of the Congo,Africa
-Djiboutian franc,DJF,Fdj,Djibouti,Africa
-Egyptian pound,EGP,LE (Latin) ج.م (Egyptian Arabic),Egypt,Africa
-Eritrean nakfa,ERN,Nkf (Latin script) ናቕፋ (Ge'ez script) ناكفا (Arabic script),Eritrea,Africa
-Ethiopian birr,ETB,Br (Latin Script) ብር (Ethiopic Script),Ethiopia,Africa
-Gambian dalasi,GMD,D,Gambia,Africa
-Ghanaian cedi,GHS,₵,Ghana,Africa
-Guinean franc,GNF,FG,Guinea,Africa
-Kenyan shilling,KES,KSh,Kenya,Africa
-Lesotho loti,LSL,L (singular) M (plural),Lesotho,Africa
-Liberian dollar,LRD,$,Liberia,Africa
-Libyan dinar,LYD,LD (Latin) ل.د (Libyan Arabic),Libya,Africa
-Malagasy ariary,MGA,Ar,Madagascar,Africa
-Malawian kwacha,MWK,MK,Malawi,Africa
-Mauritanian ouguiya,MRU,UM,Mauritania,Africa
-Mauritian rupee,MUR,Re (singular) Rs (plural),Mauritius,Africa
-Moroccan dirham,MAD,DH,Morocco,Africa
-Mozambican metical,MZN,Mt,Mozambique,Africa
-Namibian dollar,NAD,N$,Namibia,Africa
-Nigerian naira,NGN,₦,Nigeria,Africa
-Rwandan franc,RWF,FRw,Rwanda,Africa
-São Tomé and Príncipe dobra,STN,Db,Sao Tome and Principe,Africa
-Seychellois rupee,SCR,Re (singular) Rs (plural),Seychelles,Africa
-Sierra Leonean leone,SLL,Le,Sierra Leone,Africa
-Somali shilling,SOS,Sh.So.,Somalia,Africa
-South African rand,ZAR,R,South Africa,Africa
-South Sudanese pound,SSP,£,South Sudan,Africa
-Sudanese pound,SDG,LS or ج.س,Sudan,Africa
-Swazi lilangeni,SZL,L (singular) E (plural),Eswatini,Africa
-Tanzanian shilling,TZS,TSh,Tanzania,Africa
-Tunisian dinar,TND,DT (Latin) د.ت (Tunisian Arabic),Tunisia,Africa
-Ugandan shilling,UGX,USh,Uganda,Africa
-Zambian kwacha,ZMW,K,Zambia,Africa
-Zimbabwe Gold,ZWG,ZiG,Zimbabwe,Africa
-U.S. Dollar,USD,$,United States,North America
-Euro,EUR,€,Eurozone (27 EU countries),Europe
-Japanese Yen,JPY,¥,Japan,Asia
-British Pound,GBP,£,United Kingdom,Europe
-Canadian Dollar,CAD,$,Canada,North America
-Australian Dollar,AUD,$,Australia,Oceania
-Swiss Franc,CHF,Fr,Switzerland,Europe
-Indian Rupee,INR,₹,India,Asia
-Brazilian Real,BRL,R$,Brazil,South America
-Russian Ruble,RUB,₽,Russia,Europe/Asia
+ISO 4217 currency code;Country
+DZD;Algeria
+AOA;Angola
+BWP;Botswana
+BIF;Burundi
+CVE;Cabo Verde
+XAF;Cameroon
+XAF;Central African Republic
+XAF;Chad
+XAF;Republic of the Congo
+XAF;Equatorial Guinea
+XAF;Gabon
+XOF;Benin
+XOF;Burkina Faso
+XOF;Guinea-Bissau
+XOF;Côte d'Ivoire
+XOF;Mali
+XOF;Niger
+XOF;Senegal
+XOF;Togo
+KMF;Comoros
+CDF;Democratic Republic of the Congo
+DJF;Djibouti
+EGP;Egypt
+ERN;Eritrea
+ETB;Ethiopia
+GMD;Gambia
+GHS;Ghana
+GNF;Guinea
+KES;Kenya
+LSL;Lesotho
+LRD;Liberia
+LYD;Libya
+MGA;Madagascar
+MWK;Malawi
+MRU;Mauritania
+MUR;Mauritius
+MAD;Morocco
+MZN;Mozambique
+NAD;Namibia
+NGN;Nigeria
+RWF;Rwanda
+STN;Sao Tome and Principe
+SCR;Seychelles
+SLL;Sierra Leone
+SOS;Somalia
+ZAR;South Africa
+SSP;South Sudan
+SDG;Sudan
+SZL;Eswatini
+TZS;Tanzania
+TND;Tunisia
+UGX;Uganda
+ZMW;Zambia
+ZWG;Zimbabwe
+USD;United States
+EUR;Eurozone (27 EU countries)
+JPY;Japan
+GBP;United Kingdom
+CAD;Canada
+AUD;Australia
+CHF;Switzerland
+INR;India
+BRL;Brazil
+RUB;Russia
