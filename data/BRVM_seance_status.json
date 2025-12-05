@@ -24,7 +24,7 @@
     {
       "ticker": "BOAB",
       "price": "5 550",
-      "variation": "2,78%"
+      "variation": "1,85%"
     },
     {
       "ticker": "BOABF",
@@ -34,7 +34,7 @@
     {
       "ticker": "BOAC",
       "price": "7 195",
-      "variation": "0,00%"
+      "variation": "0,07%"
     },
     {
       "ticker": "BOAM",
@@ -44,7 +44,7 @@
     {
       "ticker": "BOAN",
       "price": "2 495",
-      "variation": "0,00%"
+      "variation": "0,20%"
     },
     {
       "ticker": "BOAS",
@@ -74,7 +74,7 @@
     {
       "ticker": "ECOC",
       "price": "16 600",
-      "variation": "0,00%"
+      "variation": "-0,60%"
     },
     {
       "ticker": "ETIT",
@@ -84,7 +84,7 @@
     {
       "ticker": "FTSC",
       "price": "2 300",
-      "variation": "-1,96%"
+      "variation": "0,00%"
     },
     {
       "ticker": "LNBB",
@@ -114,7 +114,7 @@
     {
       "ticker": "ORAC",
       "price": "15 200",
-      "variation": "-0,33%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ORGT",
@@ -148,8 +148,8 @@
     },
     {
       "ticker": "SDSC",
-      "price": "1 455",
-      "variation": "1,37%"
+      "price": "1 480",
+      "variation": "1,72%"
     },
     {
       "ticker": "SEMC",
@@ -159,7 +159,7 @@
     {
       "ticker": "SGBC",
       "price": "30 000",
-      "variation": "-0,33%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SHEC",
@@ -184,7 +184,7 @@
     {
       "ticker": "SLBC",
       "price": "28 000",
-      "variation": "0,00%"
+      "variation": "-1,43%"
     },
     {
       "ticker": "SMBC",
@@ -208,18 +208,18 @@
     },
     {
       "ticker": "STAC",
-      "price": "1 180",
-      "variation": "0,00%"
+      "price": "1 095",
+      "variation": "-7,20%"
     },
     {
       "ticker": "STBC",
       "price": "19 490",
-      "variation": "-0,46%"
+      "variation": "-0,72%"
     },
     {
       "ticker": "TTLC",
       "price": "2 365",
-      "variation": "0,00%"
+      "variation": "0,21%"
     },
     {
       "ticker": "TTLS",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 400",
-      "variation": "-0,71%"
+      "variation": "-1,43%"
     }
   ]
 }
