@@ -3,8 +3,8 @@
   "items": [
     {
       "ticker": "ABJC",
-      "price": "2 545",
-      "variation": "-1,77%"
+      "price": "2 480",
+      "variation": "-0,39%"
     },
     {
       "ticker": "BICB",
@@ -24,7 +24,7 @@
     {
       "ticker": "BOAB",
       "price": "6 000",
-      "variation": "3,36%"
+      "variation": "5,08%"
     },
     {
       "ticker": "BOABF",
@@ -44,12 +44,12 @@
     {
       "ticker": "BOAN",
       "price": "2 490",
-      "variation": "0,40%"
+      "variation": "-1,20%"
     },
     {
       "ticker": "BOAS",
       "price": "5 495",
-      "variation": "1,86%"
+      "variation": "1,76%"
     },
     {
       "ticker": "CABC",
@@ -139,7 +139,7 @@
     {
       "ticker": "SCRC",
       "price": "995",
-      "variation": "0,00%"
+      "variation": "0,50%"
     },
     {
       "ticker": "SDCC",
@@ -148,8 +148,8 @@
     },
     {
       "ticker": "SDSC",
-      "price": "1 415",
-      "variation": "-2,76%"
+      "price": "1 385",
+      "variation": "-3,45%"
     },
     {
       "ticker": "SEMC",
@@ -164,12 +164,12 @@
     {
       "ticker": "SHEC",
       "price": "1 540",
-      "variation": "0,00%"
+      "variation": "0,65%"
     },
     {
       "ticker": "SIBC",
       "price": "5 800",
-      "variation": "-1,98%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SICC",
@@ -233,8 +233,8 @@
     },
     {
       "ticker": "UNXC",
-      "price": "1 440",
-      "variation": "2,14%"
+      "price": "1 400",
+      "variation": "0,00%"
     }
   ]
 }
