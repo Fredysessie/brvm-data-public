@@ -18,13 +18,13 @@
     },
     {
       "ticker": "BNBC",
-      "price": "1 495",
-      "variation": "0,00%"
+      "price": "1 400",
+      "variation": "-3,45%"
     },
     {
       "ticker": "BOAB",
-      "price": "5 805",
-      "variation": "1,64%"
+      "price": "6 000",
+      "variation": "3,36%"
     },
     {
       "ticker": "BOABF",
@@ -39,7 +39,7 @@
     {
       "ticker": "BOAM",
       "price": "4 080",
-      "variation": "-1,07%"
+      "variation": "-2,74%"
     },
     {
       "ticker": "BOAN",
@@ -49,7 +49,7 @@
     {
       "ticker": "BOAS",
       "price": "5 495",
-      "variation": "0,28%"
+      "variation": "1,86%"
     },
     {
       "ticker": "CABC",
@@ -64,7 +64,7 @@
     {
       "ticker": "CFAC",
       "price": "1 735",
-      "variation": "-0,86%"
+      "variation": "-1,15%"
     },
     {
       "ticker": "CIEC",
@@ -124,7 +124,7 @@
     {
       "ticker": "PALC",
       "price": "8 100",
-      "variation": "-1,23%"
+      "variation": "-0,25%"
     },
     {
       "ticker": "PRSC",
@@ -199,12 +199,12 @@
     {
       "ticker": "SOGC",
       "price": "7 730",
-      "variation": "0,91%"
+      "variation": "1,55%"
     },
     {
       "ticker": "SPHC",
       "price": "7 840",
-      "variation": "-0,51%"
+      "variation": "0,00%"
     },
     {
       "ticker": "STAC",
