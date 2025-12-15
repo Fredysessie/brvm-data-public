@@ -1,5 +1,5 @@
 {
-  "status": "Différée de 15 minutes",
+  "status": "Séance fermée",
   "items": [
     {
       "ticker": "ABJC",
@@ -39,7 +39,7 @@
     {
       "ticker": "BOAM",
       "price": "4 350",
-      "variation": "2,47%"
+      "variation": "2,36%"
     },
     {
       "ticker": "BOAN",
@@ -63,8 +63,8 @@
     },
     {
       "ticker": "CFAC",
-      "price": "1 525",
-      "variation": "7,02%"
+      "price": "1 420",
+      "variation": "-0,35%"
     },
     {
       "ticker": "CIEC",
@@ -73,8 +73,8 @@
     },
     {
       "ticker": "ECOC",
-      "price": "15 800",
-      "variation": "3,88%"
+      "price": "15 220",
+      "variation": "0,07%"
     },
     {
       "ticker": "ETIT",
@@ -94,12 +94,12 @@
     {
       "ticker": "NEIC",
       "price": "935",
-      "variation": "-3,17%"
+      "variation": "-1,06%"
     },
     {
       "ticker": "NSBC",
       "price": "11 970",
-      "variation": "-0,25%"
+      "variation": "-0,33%"
     },
     {
       "ticker": "NTLC",
@@ -113,13 +113,13 @@
     },
     {
       "ticker": "ORAC",
-      "price": "14 750",
-      "variation": "-2,65%"
+      "price": "15 095",
+      "variation": "-0,03%"
     },
     {
       "ticker": "ORGT",
       "price": "2 575",
-      "variation": "0,00%"
+      "variation": "0,19%"
     },
     {
       "ticker": "PALC",
@@ -129,12 +129,12 @@
     {
       "ticker": "PRSC",
       "price": "3 760",
-      "variation": "-0,78%"
+      "variation": "-1,30%"
     },
     {
       "ticker": "SAFC",
-      "price": "3 200",
-      "variation": "-1,23%"
+      "price": "3 350",
+      "variation": "3,40%"
     },
     {
       "ticker": "SCRC",
@@ -159,7 +159,7 @@
     {
       "ticker": "SGBC",
       "price": "28 900",
-      "variation": "0,05%"
+      "variation": "0,35%"
     },
     {
       "ticker": "SHEC",
@@ -169,7 +169,7 @@
     {
       "ticker": "SIBC",
       "price": "5 740",
-      "variation": "0,88%"
+      "variation": "1,58%"
     },
     {
       "ticker": "SICC",
@@ -194,7 +194,7 @@
     {
       "ticker": "SNTS",
       "price": "25 500",
-      "variation": "0,39%"
+      "variation": "-1,55%"
     },
     {
       "ticker": "SOGC",
@@ -214,7 +214,7 @@
     {
       "ticker": "STBC",
       "price": "19 500",
-      "variation": "1,46%"
+      "variation": "1,44%"
     },
     {
       "ticker": "TTLC",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 430",
-      "variation": "-1,75%"
+      "variation": "0,00%"
     }
   ]
 }
