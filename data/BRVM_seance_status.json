@@ -38,8 +38,8 @@
     },
     {
       "ticker": "BOAM",
-      "price": "4 245",
-      "variation": "-2,86%"
+      "price": "4 350",
+      "variation": "-0,46%"
     },
     {
       "ticker": "BOAN",
@@ -53,8 +53,8 @@
     },
     {
       "ticker": "CABC",
-      "price": "2 345",
-      "variation": "-0,21%"
+      "price": "2 200",
+      "variation": "-6,18%"
     },
     {
       "ticker": "CBIBF",
@@ -63,13 +63,13 @@
     },
     {
       "ticker": "CFAC",
-      "price": "1 500",
-      "variation": "3,09%"
+      "price": "1 450",
+      "variation": "-0,34%"
     },
     {
       "ticker": "CIEC",
-      "price": "2 350",
-      "variation": "-5,24%"
+      "price": "2 445",
+      "variation": "-1,41%"
     },
     {
       "ticker": "ECOC",
@@ -88,13 +88,13 @@
     },
     {
       "ticker": "LNBB",
-      "price": "3 755",
-      "variation": "-2,56%"
+      "price": "3 900",
+      "variation": "0,00%"
     },
     {
       "ticker": "NEIC",
-      "price": "910",
-      "variation": "1,11%"
+      "price": "945",
+      "variation": "5,00%"
     },
     {
       "ticker": "NSBC",
@@ -148,8 +148,8 @@
     },
     {
       "ticker": "SDSC",
-      "price": "1 450",
-      "variation": "-2,03%"
+      "price": "1 420",
+      "variation": "-4,05%"
     },
     {
       "ticker": "SEMC",
@@ -203,8 +203,8 @@
     },
     {
       "ticker": "SPHC",
-      "price": "7 670",
-      "variation": "-1,30%"
+      "price": "7 420",
+      "variation": "-3,64%"
     },
     {
       "ticker": "STAC",
@@ -233,8 +233,8 @@
     },
     {
       "ticker": "UNXC",
-      "price": "1 370",
-      "variation": "-4,86%"
+      "price": "1 400",
+      "variation": "-2,78%"
     }
   ]
 }
