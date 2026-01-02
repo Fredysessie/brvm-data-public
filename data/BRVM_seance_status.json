@@ -4,7 +4,7 @@
     {
       "ticker": "ABJC",
       "price": "2 900",
-      "variation": "0,17%"
+      "variation": "0,34%"
     },
     {
       "ticker": "BICB",
@@ -29,7 +29,7 @@
     {
       "ticker": "BOABF",
       "price": "3 900",
-      "variation": "4,00%"
+      "variation": "5,33%"
     },
     {
       "ticker": "BOAC",
@@ -38,8 +38,8 @@
     },
     {
       "ticker": "BOAM",
-      "price": "4 000",
-      "variation": "-0,12%"
+      "price": "3 900",
+      "variation": "-2,50%"
     },
     {
       "ticker": "BOAN",
@@ -64,12 +64,12 @@
     {
       "ticker": "CFAC",
       "price": "1 440",
-      "variation": "0,70%"
+      "variation": "0,00%"
     },
     {
       "ticker": "CIEC",
       "price": "2 430",
-      "variation": "1,69%"
+      "variation": "2,12%"
     },
     {
       "ticker": "ECOC",
@@ -93,8 +93,8 @@
     },
     {
       "ticker": "NEIC",
-      "price": "1 200",
-      "variation": "-1,25%"
+      "price": "1 150",
+      "variation": "-4,17%"
     },
     {
       "ticker": "NSBC",
@@ -104,22 +104,22 @@
     {
       "ticker": "NTLC",
       "price": "10 650",
-      "variation": "0,00%"
+      "variation": "-0,47%"
     },
     {
       "ticker": "ONTBF",
-      "price": "2 400",
-      "variation": "-3,42%"
+      "price": "2 350",
+      "variation": "-5,43%"
     },
     {
       "ticker": "ORAC",
       "price": "14 250",
-      "variation": "-0,35%"
+      "variation": "-1,19%"
     },
     {
       "ticker": "ORGT",
-      "price": "2 485",
-      "variation": "3,54%"
+      "price": "2 425",
+      "variation": "1,04%"
     },
     {
       "ticker": "PALC",
@@ -163,7 +163,7 @@
     },
     {
       "ticker": "SHEC",
-      "price": "1 445",
+      "price": "1 420",
       "variation": "-1,73%"
     },
     {
@@ -209,7 +209,7 @@
     {
       "ticker": "STAC",
       "price": "1 300",
-      "variation": "-2,26%"
+      "variation": "-2,64%"
     },
     {
       "ticker": "STBC",
@@ -224,7 +224,7 @@
     {
       "ticker": "TTLS",
       "price": "2 500",
-      "variation": "0,00%"
+      "variation": "0,40%"
     },
     {
       "ticker": "UNLC",
