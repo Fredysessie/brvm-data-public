@@ -4,7 +4,7 @@
     {
       "ticker": "ABJC",
       "price": "2 900",
-      "variation": "1,72%"
+      "variation": "0,17%"
     },
     {
       "ticker": "BICB",
@@ -54,7 +54,7 @@
     {
       "ticker": "CABC",
       "price": "2 360",
-      "variation": "-2,54%"
+      "variation": "-1,69%"
     },
     {
       "ticker": "CBIBF",
@@ -73,8 +73,8 @@
     },
     {
       "ticker": "ECOC",
-      "price": "16 000",
-      "variation": "-1,28%"
+      "price": "15 500",
+      "variation": "-3,12%"
     },
     {
       "ticker": "ETIT",
@@ -99,7 +99,7 @@
     {
       "ticker": "NSBC",
       "price": "11 445",
-      "variation": "0,00%"
+      "variation": "-0,04%"
     },
     {
       "ticker": "NTLC",
@@ -159,7 +159,7 @@
     {
       "ticker": "SGBC",
       "price": "29 895",
-      "variation": "-0,08%"
+      "variation": "-0,15%"
     },
     {
       "ticker": "SHEC",
@@ -193,8 +193,8 @@
     },
     {
       "ticker": "SNTS",
-      "price": "24 600",
-      "variation": "-5,05%"
+      "price": "24 800",
+      "variation": "-5,44%"
     },
     {
       "ticker": "SOGC",
@@ -214,12 +214,12 @@
     {
       "ticker": "STBC",
       "price": "19 780",
-      "variation": "-0,40%"
+      "variation": "-0,38%"
     },
     {
       "ticker": "TTLC",
       "price": "2 335",
-      "variation": "0,21%"
+      "variation": "0,00%"
     },
     {
       "ticker": "TTLS",
