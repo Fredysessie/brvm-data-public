@@ -4,7 +4,7 @@
     {
       "ticker": "ABJC",
       "price": "2 730",
-      "variation": "1,83%"
+      "variation": "0,00%"
     },
     {
       "ticker": "BICB",
@@ -39,7 +39,7 @@
     {
       "ticker": "BOAM",
       "price": "3 985",
-      "variation": "-0,13%"
+      "variation": "-0,25%"
     },
     {
       "ticker": "BOAN",
@@ -49,12 +49,12 @@
     {
       "ticker": "BOAS",
       "price": "5 240",
-      "variation": "-0,10%"
+      "variation": "0,00%"
     },
     {
       "ticker": "CABC",
       "price": "2 300",
-      "variation": "1,09%"
+      "variation": "1,96%"
     },
     {
       "ticker": "CBIBF",
@@ -69,7 +69,7 @@
     {
       "ticker": "CIEC",
       "price": "2 405",
-      "variation": "0,00%"
+      "variation": "0,21%"
     },
     {
       "ticker": "ECOC",
@@ -94,7 +94,7 @@
     {
       "ticker": "NEIC",
       "price": "1 065",
-      "variation": "5,97%"
+      "variation": "7,46%"
     },
     {
       "ticker": "NSBC",
@@ -119,7 +119,7 @@
     {
       "ticker": "ORGT",
       "price": "2 640",
-      "variation": "0,00%"
+      "variation": "-1,33%"
     },
     {
       "ticker": "PALC",
@@ -159,7 +159,7 @@
     {
       "ticker": "SGBC",
       "price": "29 400",
-      "variation": "0,34%"
+      "variation": "-1,02%"
     },
     {
       "ticker": "SHEC",
@@ -169,7 +169,7 @@
     {
       "ticker": "SIBC",
       "price": "5 810",
-      "variation": "-2,68%"
+      "variation": "-1,34%"
     },
     {
       "ticker": "SICC",
@@ -178,8 +178,8 @@
     },
     {
       "ticker": "SIVC",
-      "price": "1 600",
-      "variation": "-3,90%"
+      "price": "1 670",
+      "variation": "0,30%"
     },
     {
       "ticker": "SLBC",
@@ -194,7 +194,7 @@
     {
       "ticker": "SNTS",
       "price": "25 500",
-      "variation": "-0,20%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SOGC",
@@ -214,12 +214,12 @@
     {
       "ticker": "STBC",
       "price": "19 400",
-      "variation": "1,01%"
+      "variation": "0,95%"
     },
     {
       "ticker": "TTLC",
       "price": "2 345",
-      "variation": "0,64%"
+      "variation": "0,21%"
     },
     {
       "ticker": "TTLS",
