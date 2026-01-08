@@ -1,5 +1,5 @@
 {
-  "status": "Différée de 15 minutes",
+  "status": "Séance fermée",
   "items": [
     {
       "ticker": "ABJC",
@@ -44,12 +44,12 @@
     {
       "ticker": "BOAN",
       "price": "2 550",
-      "variation": "-1,96%"
+      "variation": "0,78%"
     },
     {
       "ticker": "BOAS",
       "price": "5 240",
-      "variation": "-0,10%"
+      "variation": "0,00%"
     },
     {
       "ticker": "CABC",
@@ -59,7 +59,7 @@
     {
       "ticker": "CBIBF",
       "price": "10 955",
-      "variation": "0,23%"
+      "variation": "0,41%"
     },
     {
       "ticker": "CFAC",
@@ -74,7 +74,7 @@
     {
       "ticker": "ECOC",
       "price": "16 200",
-      "variation": "1,85%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ETIT",
@@ -149,7 +149,7 @@
     {
       "ticker": "SDSC",
       "price": "1 490",
-      "variation": "-0,67%"
+      "variation": "-1,01%"
     },
     {
       "ticker": "SEMC",
@@ -164,12 +164,12 @@
     {
       "ticker": "SHEC",
       "price": "1 545",
-      "variation": "-0,65%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SIBC",
-      "price": "5 995",
-      "variation": "-0,34%"
+      "price": "5 810",
+      "variation": "-2,68%"
     },
     {
       "ticker": "SICC",
@@ -199,17 +199,17 @@
     {
       "ticker": "SOGC",
       "price": "7 750",
-      "variation": "0,45%"
+      "variation": "0,52%"
     },
     {
       "ticker": "SPHC",
       "price": "7 680",
-      "variation": "-0,65%"
+      "variation": "-0,72%"
     },
     {
       "ticker": "STAC",
-      "price": "1 350",
-      "variation": "5,88%"
+      "price": "1 205",
+      "variation": "-5,49%"
     },
     {
       "ticker": "STBC",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 395",
-      "variation": "0,36%"
+      "variation": "0,00%"
     }
   ]
 }
