@@ -1,5 +1,5 @@
 {
-  "status": "Différée de 15 minutes",
+  "status": "Séance fermée",
   "items": [
     {
       "ticker": "ABJC",
@@ -63,7 +63,7 @@
     },
     {
       "ticker": "CFAC",
-      "price": "1 340",
+      "price": "1 345",
       "variation": "0,00%"
     },
     {
@@ -78,8 +78,8 @@
     },
     {
       "ticker": "ETIT",
-      "price": "23",
-      "variation": "4,55%"
+      "price": "22",
+      "variation": "0,00%"
     },
     {
       "ticker": "FTSC",
@@ -93,8 +93,8 @@
     },
     {
       "ticker": "NEIC",
-      "price": "1 170",
-      "variation": "1,74%"
+      "price": "1 200",
+      "variation": "4,35%"
     },
     {
       "ticker": "NSBC",
@@ -128,8 +128,8 @@
     },
     {
       "ticker": "PRSC",
-      "price": "3 600",
-      "variation": "-5,07%"
+      "price": "3 700",
+      "variation": "-1,20%"
     },
     {
       "ticker": "SAFC",
@@ -158,8 +158,8 @@
     },
     {
       "ticker": "SGBC",
-      "price": "27 505",
-      "variation": "0,02%"
+      "price": "29 185",
+      "variation": "6,13%"
     },
     {
       "ticker": "SHEC",
@@ -198,8 +198,8 @@
     },
     {
       "ticker": "SOGC",
-      "price": "7 555",
-      "variation": "-1,09%"
+      "price": "7 710",
+      "variation": "-0,96%"
     },
     {
       "ticker": "SPHC",
