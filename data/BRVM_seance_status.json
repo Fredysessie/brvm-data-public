@@ -1,5 +1,5 @@
 {
-  "status": "Différée de 15 minutes",
+  "status": "Séance fermée",
   "items": [
     {
       "ticker": "ABJC",
@@ -48,8 +48,8 @@
     },
     {
       "ticker": "BOAS",
-      "price": "5 270",
-      "variation": "0,57%"
+      "price": "5 400",
+      "variation": "2,47%"
     },
     {
       "ticker": "CABC",
@@ -63,7 +63,7 @@
     },
     {
       "ticker": "CFAC",
-      "price": "1 305",
+      "price": "1 340",
       "variation": "-0,37%"
     },
     {
@@ -78,8 +78,8 @@
     },
     {
       "ticker": "ETIT",
-      "price": "22",
-      "variation": "0,00%"
+      "price": "23",
+      "variation": "4,55%"
     },
     {
       "ticker": "FTSC",
@@ -223,8 +223,8 @@
     },
     {
       "ticker": "TTLS",
-      "price": "2 530",
-      "variation": "0,59%"
+      "price": "2 600",
+      "variation": "2,77%"
     },
     {
       "ticker": "UNLC",
