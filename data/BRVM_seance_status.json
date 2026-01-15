@@ -1,5 +1,5 @@
 {
-  "status": "Différée de 15 minutes",
+  "status": "Séance fermée",
   "items": [
     {
       "ticker": "ABJC",
@@ -18,8 +18,8 @@
     },
     {
       "ticker": "BNBC",
-      "price": "1 315",
-      "variation": "-0,74%"
+      "price": "1 350",
+      "variation": "0,00%"
     },
     {
       "ticker": "BOAB",
@@ -98,13 +98,13 @@
     },
     {
       "ticker": "NSBC",
-      "price": "11 445",
-      "variation": "0,00%"
+      "price": "11 155",
+      "variation": "-2,53%"
     },
     {
       "ticker": "NTLC",
-      "price": "11 400",
-      "variation": "-0,87%"
+      "price": "10 710",
+      "variation": "-6,87%"
     },
     {
       "ticker": "ONTBF",
@@ -128,8 +128,8 @@
     },
     {
       "ticker": "PRSC",
-      "price": "3 560",
-      "variation": "-4,56%"
+      "price": "3 715",
+      "variation": "-0,40%"
     },
     {
       "ticker": "SAFC",
@@ -208,8 +208,8 @@
     },
     {
       "ticker": "STAC",
-      "price": "1 285",
-      "variation": "6,20%"
+      "price": "1 250",
+      "variation": "3,31%"
     },
     {
       "ticker": "STBC",
@@ -233,8 +233,8 @@
     },
     {
       "ticker": "UNXC",
-      "price": "1 400",
-      "variation": "-3,78%"
+      "price": "1 455",
+      "variation": "0,00%"
     }
   ]
 }
