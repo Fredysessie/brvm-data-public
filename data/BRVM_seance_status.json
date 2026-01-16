@@ -18,13 +18,13 @@
     },
     {
       "ticker": "BNBC",
-      "price": "1 400",
-      "variation": "3,70%"
+      "price": "1 350",
+      "variation": "0,00%"
     },
     {
       "ticker": "BOAB",
-      "price": "6 010",
-      "variation": "-5,43%"
+      "price": "6 350",
+      "variation": "-0,08%"
     },
     {
       "ticker": "BOABF",
@@ -148,8 +148,8 @@
     },
     {
       "ticker": "SDSC",
-      "price": "1 600",
-      "variation": "0,00%"
+      "price": "1 555",
+      "variation": "-2,81%"
     },
     {
       "ticker": "SEMC",
@@ -163,8 +163,8 @@
     },
     {
       "ticker": "SHEC",
-      "price": "1 500",
-      "variation": "-2,91%"
+      "price": "1 545",
+      "variation": "0,00%"
     },
     {
       "ticker": "SIBC",
@@ -228,8 +228,8 @@
     },
     {
       "ticker": "UNLC",
-      "price": "43 475",
-      "variation": "0,00%"
+      "price": "46 445",
+      "variation": "6,83%"
     },
     {
       "ticker": "UNXC",
