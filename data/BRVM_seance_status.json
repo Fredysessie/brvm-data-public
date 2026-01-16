@@ -9,7 +9,7 @@
     {
       "ticker": "BICB",
       "price": "4 920",
-      "variation": "0,51%"
+      "variation": "-0,20%"
     },
     {
       "ticker": "BICC",
@@ -18,8 +18,8 @@
     },
     {
       "ticker": "BNBC",
-      "price": "1 350",
-      "variation": "0,00%"
+      "price": "1 400",
+      "variation": "3,70%"
     },
     {
       "ticker": "BOAB",
@@ -29,12 +29,12 @@
     {
       "ticker": "BOABF",
       "price": "4 290",
-      "variation": "-0,35%"
+      "variation": "-1,63%"
     },
     {
       "ticker": "BOAC",
       "price": "7 185",
-      "variation": "0,00%"
+      "variation": "0,07%"
     },
     {
       "ticker": "BOAM",
@@ -44,12 +44,12 @@
     {
       "ticker": "BOAN",
       "price": "2 550",
-      "variation": "0,00%"
+      "variation": "1,96%"
     },
     {
       "ticker": "BOAS",
       "price": "5 400",
-      "variation": "0,93%"
+      "variation": "1,85%"
     },
     {
       "ticker": "CABC",
@@ -69,12 +69,12 @@
     {
       "ticker": "CIEC",
       "price": "2 590",
-      "variation": "0,39%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ECOC",
       "price": "16 500",
-      "variation": "0,00%"
+      "variation": "-0,06%"
     },
     {
       "ticker": "ETIT",
@@ -84,32 +84,32 @@
     {
       "ticker": "FTSC",
       "price": "2 150",
-      "variation": "-0,70%"
+      "variation": "0,47%"
     },
     {
       "ticker": "LNBB",
       "price": "4 000",
-      "variation": "2,00%"
+      "variation": "1,50%"
     },
     {
       "ticker": "NEIC",
-      "price": "1 175",
-      "variation": "4,44%"
+      "price": "1 200",
+      "variation": "6,67%"
     },
     {
       "ticker": "NSBC",
       "price": "11 445",
-      "variation": "2,60%"
+      "variation": "2,64%"
     },
     {
       "ticker": "NTLC",
       "price": "10 900",
-      "variation": "1,77%"
+      "variation": "3,64%"
     },
     {
       "ticker": "ONTBF",
-      "price": "2 420",
-      "variation": "1,03%"
+      "price": "2 495",
+      "variation": "2,68%"
     },
     {
       "ticker": "ORAC",
@@ -129,17 +129,17 @@
     {
       "ticker": "PRSC",
       "price": "3 805",
-      "variation": "2,56%"
+      "variation": "3,10%"
     },
     {
       "ticker": "SAFC",
       "price": "3 295",
-      "variation": "0,00%"
+      "variation": "0,15%"
     },
     {
       "ticker": "SCRC",
-      "price": "1 100",
-      "variation": "1,86%"
+      "price": "1 075",
+      "variation": "0,00%"
     },
     {
       "ticker": "SDCC",
@@ -149,7 +149,7 @@
     {
       "ticker": "SDSC",
       "price": "1 625",
-      "variation": "1,25%"
+      "variation": "0,94%"
     },
     {
       "ticker": "SEMC",
@@ -159,17 +159,17 @@
     {
       "ticker": "SGBC",
       "price": "28 135",
-      "variation": "0,94%"
+      "variation": "0,76%"
     },
     {
       "ticker": "SHEC",
       "price": "1 545",
-      "variation": "0,00%"
+      "variation": "-0,32%"
     },
     {
       "ticker": "SIBC",
       "price": "5 950",
-      "variation": "0,50%"
+      "variation": "0,59%"
     },
     {
       "ticker": "SICC",
@@ -189,12 +189,12 @@
     {
       "ticker": "SMBC",
       "price": "9 585",
-      "variation": "3,01%"
+      "variation": "2,96%"
     },
     {
       "ticker": "SNTS",
       "price": "25 500",
-      "variation": "0,00%"
+      "variation": "-0,78%"
     },
     {
       "ticker": "SOGC",
@@ -204,22 +204,22 @@
     {
       "ticker": "SPHC",
       "price": "7 250",
-      "variation": "-0,07%"
+      "variation": "-0,21%"
     },
     {
       "ticker": "STAC",
       "price": "1 260",
-      "variation": "2,40%"
+      "variation": "2,80%"
     },
     {
       "ticker": "STBC",
       "price": "19 800",
-      "variation": "0,51%"
+      "variation": "0,28%"
     },
     {
       "ticker": "TTLC",
       "price": "2 395",
-      "variation": "-0,21%"
+      "variation": "-1,88%"
     },
     {
       "ticker": "TTLS",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 455",
-      "variation": "0,00%"
+      "variation": "-0,34%"
     }
   ]
 }
