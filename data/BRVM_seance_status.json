@@ -3,13 +3,13 @@
   "items": [
     {
       "ticker": "ABJC",
-      "price": "2 800",
-      "variation": "-0,89%"
+      "price": "2 950",
+      "variation": "5,36%"
     },
     {
       "ticker": "BICB",
       "price": "4 930",
-      "variation": "0,00%"
+      "variation": "-0,30%"
     },
     {
       "ticker": "BICC",
@@ -34,22 +34,22 @@
     {
       "ticker": "BOAC",
       "price": "7 180",
-      "variation": "0,00%"
+      "variation": "-0,42%"
     },
     {
       "ticker": "BOAM",
       "price": "4 145",
-      "variation": "1,33%"
+      "variation": "1,57%"
     },
     {
       "ticker": "BOAN",
       "price": "2 600",
-      "variation": "0,00%"
+      "variation": "-1,54%"
     },
     {
       "ticker": "BOAS",
       "price": "5 650",
-      "variation": "0,00%"
+      "variation": "-0,35%"
     },
     {
       "ticker": "CABC",
@@ -69,12 +69,12 @@
     {
       "ticker": "CIEC",
       "price": "2 720",
-      "variation": "-0,74%"
+      "variation": "-0,92%"
     },
     {
       "ticker": "ECOC",
       "price": "16 505",
-      "variation": "0,51%"
+      "variation": "0,58%"
     },
     {
       "ticker": "ETIT",
@@ -84,7 +84,7 @@
     {
       "ticker": "FTSC",
       "price": "2 050",
-      "variation": "-1,43%"
+      "variation": "-1,90%"
     },
     {
       "ticker": "LNBB",
@@ -119,7 +119,7 @@
     {
       "ticker": "ORGT",
       "price": "2 600",
-      "variation": "-0,38%"
+      "variation": "0,00%"
     },
     {
       "ticker": "PALC",
@@ -134,7 +134,7 @@
     {
       "ticker": "SAFC",
       "price": "3 795",
-      "variation": "2,30%"
+      "variation": "2,84%"
     },
     {
       "ticker": "SCRC",
@@ -144,11 +144,11 @@
     {
       "ticker": "SDCC",
       "price": "6 005",
-      "variation": "-0,08%"
+      "variation": "1,58%"
     },
     {
       "ticker": "SDSC",
-      "price": "1 540",
+      "price": "1 510",
       "variation": "0,00%"
     },
     {
@@ -164,7 +164,7 @@
     {
       "ticker": "SHEC",
       "price": "1 590",
-      "variation": "-2,44%"
+      "variation": "-2,74%"
     },
     {
       "ticker": "SIBC",
@@ -194,7 +194,7 @@
     {
       "ticker": "SNTS",
       "price": "25 495",
-      "variation": "0,02%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SOGC",
@@ -209,12 +209,12 @@
     {
       "ticker": "STAC",
       "price": "1 200",
-      "variation": "-0,83%"
+      "variation": "0,00%"
     },
     {
       "ticker": "STBC",
       "price": "21 495",
-      "variation": "0,02%"
+      "variation": "0,00%"
     },
     {
       "ticker": "TTLC",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 600",
-      "variation": "5,61%"
+      "variation": "7,26%"
     }
   ]
 }
