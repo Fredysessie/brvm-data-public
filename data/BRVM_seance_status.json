@@ -1,5 +1,5 @@
 {
-  "status": "Différée de 15 minutes",
+  "status": "Séance fermée",
   "items": [
     {
       "ticker": "ABJC",
@@ -118,8 +118,8 @@
     },
     {
       "ticker": "ORGT",
-      "price": "2 600",
-      "variation": "1,92%"
+      "price": "2 700",
+      "variation": "3,85%"
     },
     {
       "ticker": "PALC",
@@ -148,8 +148,8 @@
     },
     {
       "ticker": "SDSC",
-      "price": "1 510",
-      "variation": "0,00%"
+      "price": "1 550",
+      "variation": "0,65%"
     },
     {
       "ticker": "SEMC",
@@ -173,8 +173,8 @@
     },
     {
       "ticker": "SICC",
-      "price": "3 800",
-      "variation": "0,00%"
+      "price": "3 600",
+      "variation": "-5,26%"
     },
     {
       "ticker": "SIVC",
