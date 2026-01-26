@@ -3,23 +3,23 @@
   "items": [
     {
       "ticker": "ABJC",
-      "price": "2 850",
-      "variation": "0,35%"
+      "price": "2 945",
+      "variation": "3,33%"
     },
     {
       "ticker": "BICB",
       "price": "4 915",
-      "variation": "1,73%"
+      "variation": "1,63%"
     },
     {
       "ticker": "BICC",
       "price": "19 200",
-      "variation": "-0,16%"
+      "variation": "-0,03%"
     },
     {
       "ticker": "BNBC",
       "price": "1 685",
-      "variation": "-0,89%"
+      "variation": "-1,19%"
     },
     {
       "ticker": "BOAB",
@@ -28,18 +28,18 @@
     },
     {
       "ticker": "BOABF",
-      "price": "4 595",
-      "variation": "-0,11%"
+      "price": "4 695",
+      "variation": "2,18%"
     },
     {
       "ticker": "BOAC",
       "price": "7 190",
-      "variation": "-0,07%"
+      "variation": "-0,21%"
     },
     {
       "ticker": "BOAM",
       "price": "4 200",
-      "variation": "0,24%"
+      "variation": "0,48%"
     },
     {
       "ticker": "BOAN",
@@ -58,8 +58,8 @@
     },
     {
       "ticker": "CBIBF",
-      "price": "11 950",
-      "variation": "0,00%"
+      "price": "11 700",
+      "variation": "-2,09%"
     },
     {
       "ticker": "CFAC",
@@ -69,12 +69,12 @@
     {
       "ticker": "CIEC",
       "price": "2 705",
-      "variation": "-0,18%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ECOC",
       "price": "16 505",
-      "variation": "0,09%"
+      "variation": "0,00%"
     },
     {
       "ticker": "ETIT",
@@ -84,7 +84,7 @@
     {
       "ticker": "FTSC",
       "price": "2 100",
-      "variation": "3,68%"
+      "variation": "2,45%"
     },
     {
       "ticker": "LNBB",
@@ -99,7 +99,7 @@
     {
       "ticker": "NSBC",
       "price": "12 115",
-      "variation": "-0,04%"
+      "variation": "-0,87%"
     },
     {
       "ticker": "NTLC",
@@ -109,22 +109,22 @@
     {
       "ticker": "ONTBF",
       "price": "2 580",
-      "variation": "0,00%"
+      "variation": "0,19%"
     },
     {
       "ticker": "ORAC",
       "price": "14 400",
-      "variation": "-0,35%"
+      "variation": "0,35%"
     },
     {
       "ticker": "ORGT",
       "price": "2 800",
-      "variation": "3,70%"
+      "variation": "3,52%"
     },
     {
       "ticker": "PALC",
       "price": "8 335",
-      "variation": "0,18%"
+      "variation": "-0,42%"
     },
     {
       "ticker": "PRSC",
@@ -134,12 +134,12 @@
     {
       "ticker": "SAFC",
       "price": "3 950",
-      "variation": "3,13%"
+      "variation": "-0,39%"
     },
     {
       "ticker": "SCRC",
-      "price": "1 265",
-      "variation": "-0,79%"
+      "price": "1 230",
+      "variation": "-2,37%"
     },
     {
       "ticker": "SDCC",
@@ -149,16 +149,16 @@
     {
       "ticker": "SDSC",
       "price": "1 550",
-      "variation": "0,00%"
+      "variation": "0,65%"
     },
     {
       "ticker": "SEMC",
       "price": "1 345",
-      "variation": "3,05%"
+      "variation": "2,29%"
     },
     {
       "ticker": "SGBC",
-      "price": "29 000",
+      "price": "29 700",
       "variation": "-1,84%"
     },
     {
@@ -169,7 +169,7 @@
     {
       "ticker": "SIBC",
       "price": "6 095",
-      "variation": "0,25%"
+      "variation": "0,00%"
     },
     {
       "ticker": "SICC",
@@ -184,12 +184,12 @@
     {
       "ticker": "SLBC",
       "price": "28 295",
-      "variation": "-0,32%"
+      "variation": "-0,69%"
     },
     {
       "ticker": "SMBC",
       "price": "10 000",
-      "variation": "0,10%"
+      "variation": "2,00%"
     },
     {
       "ticker": "SNTS",
@@ -214,7 +214,7 @@
     {
       "ticker": "STBC",
       "price": "21 500",
-      "variation": "1,86%"
+      "variation": "0,93%"
     },
     {
       "ticker": "TTLC",
@@ -224,7 +224,7 @@
     {
       "ticker": "TTLS",
       "price": "2 550",
-      "variation": "0,00%"
+      "variation": "-0,20%"
     },
     {
       "ticker": "UNLC",
@@ -234,7 +234,7 @@
     {
       "ticker": "UNXC",
       "price": "1 685",
-      "variation": "4,00%"
+      "variation": "4,62%"
     }
   ]
 }
